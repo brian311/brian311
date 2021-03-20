@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Brian Fisher
-- 👀 I’m a Senior Technical Writer interested in SPAs, Docs as Code approach, and the overall craft of Technical Writing
-- 🌱 I’m currently documenting cloud-based software for the social good community at Blackbaud in Charleston, SC
-- 📫 You can reach me at brb311@gmail.com
+-  Hey! 👋
+-  I am a technical writer based in Summerville, South Carolina. I document cloud-based software Blackbaud to help power the social good community. I have a passion for learning, knowledge sharing, and new technologies. I'm interested in SPAs, Docs as Code approach, and guitar. 👀
+-  Right now, I can't get enough Allman Betts Band and Dead and Company.
+
+
 
 <!---
 brian311/brian311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
