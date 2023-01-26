@@ -1,9 +1,6 @@
 Hey! 👋 
 
-I am a technical writer documenting cloud-based software at Blackbaud to help power the social good community. I have a passion for learning, knowledge sharing, collaboration, and working with new technologies. Lately, I've been focused on creating SPAs, using the Docs as Code approach, and writing developer docs.
-
-Outside of work, I like to play guitar and listen to all types of music. My current Spotify playlists include a lot of Allman Betts Band, Dead and Company, Marc Ford, Allman Brothers Band, Black Crowes, and other southern rock and jam bands.
-
+I am a technical writer documenting DevOps software at CloudBees. I have a passion for learning, knowledge sharing, collaboration, and working with new technologies. Lately, I've focused on using the Docs as Code approach, writing developer docs, and learning about CloudBees CD/RO.
 
 
 <!---
