@@ -1,6 +1,8 @@
 Hey! 👋 
 
-I am a staff technical writer documenting DevSecOps software at Harness. I have a passion for learning, knowledge sharing, collaboration, and working with new technologies. Lately, I've focused on using the Docs as Code approach, writing developer docs, and learning about the Harness Platform and Self-Managed Enterprise Edition.
+I am a Staff Technical Writer documenting DevSecOps software at [Harness](harness.io). You can view my contributions to the Harness Developer Hub [here](https://github.com/brian-f-harness). 
+
+I have a passion for learning, knowledge sharing, collaboration, and working with new technologies. Lately, I've focused on using the Docs as Code approach, writing developer docs, and learning about the Harness Platform and Self-Managed Enterprise Edition.
 
 
 <!---
